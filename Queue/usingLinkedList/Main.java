@@ -8,5 +8,7 @@ public class Main {
         q.deQueue();
         q.isEmpty();
         q.delete();
+      
+
     }
 }
